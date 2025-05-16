@@ -562,9 +562,9 @@ layout: center
 class: text-center
 ---
 
-# <span class="text-xl font-bold text-orange-400 mb-0 block">Voyons Concrètement...</span>
+# <span class="text-2xl font-bold text-orange-400 mb-0 block">Voyons Concrètement...</span>
 
-<div class="mt-1 text-lg max-w-3xl mx-auto">
+<div class="mt-0 text-lg max-w-3xl mx-auto">
   <ul style="list-style-type: none;"
     class="space-y-4 mt-6 text-left inline-block"
     v-motion
