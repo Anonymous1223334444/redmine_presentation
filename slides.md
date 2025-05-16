@@ -562,7 +562,7 @@ layout: center
 class: text-center
 ---
 
-# <span class="text-2xl font-bold text-orange-400 mb-0 block">Voyons Concrètement...</span>
+# <span class="text-2xl font-bold text-orange-400 mb-0 mt-2 block">Voyons Concrètement...</span>
 
 <div class="mt-1 text-lg max-w-3xl mx-auto">
   <ul style="list-style-type: none;"
@@ -662,7 +662,7 @@ class: text-center
 </div>
 
 <div class="abs-br m-8 flex gap-3">
-  <a href="https://www.redmine.org" target="_blank" class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+  <a href="https://github.com/redmine/redmine" target="_blank" class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
   <a href="https://www.redmine.org/guide" target="_blank" class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
