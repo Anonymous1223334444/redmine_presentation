@@ -141,7 +141,7 @@ layout: section
 background: https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg
 ---
 
-# 01. Le Constat : Faire un Logiciel, C'est Complexe !
+# <span class="text-4xl font-bold">01. Le Constat : Faire un Logiciel, C'est Complexe !</span>
 
 <div 
   v-motion
@@ -227,7 +227,7 @@ layout: section
 background: https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg
 ---
 
-# 02. L'Idée avec Redmine : Un Outil Central !
+# <span class="text-4xl font-bold">02. L'Idée avec Redmine : Un Outil Central !</span>
 
 <div 
   v-motion
@@ -278,7 +278,7 @@ layout: section
 background: https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg
 ---
 
-# 03. Comment Ça Marche ? Gérer le Projet
+# <span class="text-4xl font-bold">03. Comment Ça Marche ? Gérer le Projet</span>
 
 <div 
   v-motion
@@ -367,7 +367,7 @@ layout: section
 background: https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg
 ---
 
-# 04. Comment Ça Marche ? Suivre les Bugs
+# <span class="text-4xl font-bold">04. Comment Ça Marche ? Suivre les Bugs</span>
 
 <div 
   v-motion
@@ -457,7 +457,7 @@ layout: section
 background: https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg
 ---
 
-# 05. Redmine : Un Plus pour la Qualité Logicielle !
+# <span class="text-4xl font-bold">05. Redmine : Un Plus pour la Qualité Logicielle !</span>
 
 <div 
   v-motion
@@ -546,7 +546,7 @@ layout: section
 background: https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg
 ---
 
-# 06. Démonstration Pratique : Redmine en Action !
+# <span class="text-4xl font-bold">06. Démonstration Pratique : Redmine en Action !</span>
 
 <div 
   v-motion
@@ -592,7 +592,7 @@ layout: section
 background: https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg
 ---
 
-# 07. Conclusion : Redmine, un Allié !
+# <span class="text-4xl font-bold">07. Conclusion : Redmine, un Allié !</span>
 
 <div 
   v-motion
@@ -648,6 +648,7 @@ class: text-center
 >
   Des questions ?
 </div>
+<carbon-help />
 
 <div 
   class="pt-12"
@@ -697,7 +698,7 @@ img {
 }
 
 .slidev-layout.section h1 {
-  @apply text-2xl font-bold p-4 rounded-xl bg-black bg-opacity-50 inline-block;
+  @apply text-sm font-bold p-4 rounded-xl bg-black bg-opacity-50 inline-block;
 }
 
 /* Supprimer les puces des listes */
