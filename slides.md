@@ -562,7 +562,7 @@ layout: center
 class: text-center
 ---
 
-# <span class="text-2xl font-bold text-orange-400 mb-0 block">Voyons Concrètement...</span>
+<h1 class="mt-12"> <span class="text-2xl font-bold text-orange-400 mb-0 block">Voyons Concrètement...</span></h1>
 
 <div class="mt-0 text-lg max-w-3xl mx-auto">
   <ul style="list-style-type: none;"
