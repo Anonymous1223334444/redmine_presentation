@@ -19,7 +19,7 @@ transition: slide-left
 <div
   v-motion
   :initial="{ opacity: 0, y: 100 }"
-  :enter="{ opacity: 1, y: 0, transition: { delay: 100, duration: 500 } }"
+  :enter="{ opacity: 1, y: 0, transition: { delay: 300, duration: 1000 } }"
   class="text-orange-400 text-5xl font-bold mt-4 mb-8"
 >
   L'outil qui met de l'ordre dans vos projets logiciels
